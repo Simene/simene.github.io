@@ -7,4 +7,4 @@ Hugo
 
 http://viewerjs.org/ PDF Viewer
 
-http://brutaldesign.github.io/swipebox/#download A touchable jQuery lightbox
+swipebox A touchable jQuery lightbox
