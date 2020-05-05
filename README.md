@@ -3,8 +3,10 @@ Site for Gradinita 21 Brasov
 
 # simene.github.io
 
-Hugo
+Site made using:
 
-http://viewerjs.org/ PDF Viewer
+[Hugo](https://gohugo.io/)
 
-swipebox A touchable jQuery lightbox
+ [PDF Viewer](http://viewerjs.org/)
+
+[swipebox](https://brutaldesign.github.io/swipebox/) - A touchable jQuery lightbox 
